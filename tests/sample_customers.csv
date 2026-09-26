@@ -1,0 +1,5 @@
+cust_id,name,pan_masked,mobile_masked,occupation,aum_inr,txn_count_12m,cash_ratio,cross_border_inr_12m,kyc_age_months,salary_credit,emi_bounce_12m
+KFL-TTX-000101,Test Customer Alpha,XXXXX1111X,98XXXXXX01,salaried,4500000,44,0.05,0,12,1,0
+KFL-TTX-000102,Test Customer Bravo,XXXXX2222X,98XXXXXX02,jeweller,27000000,61,0.52,1800000,30,0,0
+KFL-TTX-000103,Test Customer Charlie,XXXXX3333X,98XXXXXX03,salaried,85000,14,0.10,0,8,1,2
+KFL-TTX-000104,Test Customer Delta,XXXXX4444X,98XXXXXX04,real_estate_agent,1200000,22,0.45,0,40,0,1

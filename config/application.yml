@@ -1,0 +1,15 @@
+# KFL service config (SYNTHETIC - TTX)
+server:
+  port: 8443
+  internal_base_url: https://core-api.int.kaverifinserv.example
+security:
+  mtls_enabled: false          # disabled for UAT, forgot to flip back
+  jwt_issuer: kfl-core
+  jwt_secret: ttx-fake-hs256-5f2b9c1e7a3d4b8f
+integrations:
+  vpn_gateway: vpn.kaverifinserv.example
+  jump_box: 10.42.8.15
+  sftp_bureau:
+    host: sftp.bureau-partner.example
+    user: kfl_upload
+    password: "SftpTTX#Fake99"
