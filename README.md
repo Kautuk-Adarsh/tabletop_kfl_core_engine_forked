@@ -1,6 +1,6 @@
 # kfl-core-engine
 
-Core decisioning services for **Kaveri Finserv Ltd (KFL)** — Treasury, Lending & Customer Analytics.
+Core decisioning services for **Kents Finserv Ltd (KFL)** — Treasury, Lending & Customer Analytics.
 
 > ⚠️ **SYNTHETIC TRAINING ARTEFACT — Vault Crimson Series TTX "Operation Open Ledger" by FlexibleIR.**
 > Kaveri Finserv Ltd is a fictional entity. All code, logic, customers, credentials and keys in this
