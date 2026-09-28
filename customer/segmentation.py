@@ -3,7 +3,7 @@ KFL Customer Analytics - Segmentation, KYC Risk Rating & Cross-sell
 CONFIDENTIAL. SYNTHETIC - Vault Crimson TTX 'Operation Open Ledger'.
 """
 
-## This is teh change taht is being made by me just to check .
+## This is the change that is being made by me just to check .
 import pandas as pd
 
 SEGMENTS = {
